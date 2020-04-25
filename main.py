@@ -7,11 +7,3 @@ while(b!=a):
 	else :
 		b=int(input('you are too low try another:'))
 print('jackpot')
-		
-
-
-
-	
-
-
-	
