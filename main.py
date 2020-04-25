@@ -1,5 +1,5 @@
 from random import randint
-a=randint(0,1)
+a=randint(0,1000)
 b=int(input('guess the number i have taken:'))
 i=0
 while(b!=a):
