@@ -1,3 +1,2 @@
-#Guess The Number
-
-MY FIRST PROJECT IN PYTHON
+# Guess The Number
+My First Project In Python
